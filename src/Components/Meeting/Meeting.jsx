@@ -3,7 +3,7 @@ import bgImage from "../../assets/Ellipse 734.webp";
 import image1 from "../../assets/image 348.webp";
 import { HiOutlineArrowLongRight } from "react-icons/hi2";
 
-import polygon from "../../assets/Polygon 3.png"
+import polygon from "../../assets/Polygon 3.webp"
 
 const Meeting = () => {
   return (

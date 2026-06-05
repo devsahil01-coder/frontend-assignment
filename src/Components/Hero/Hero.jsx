@@ -4,7 +4,7 @@ import Image2 from "../../assets/Ellipse 261.webp";
 import Image3 from "../../assets/Ellipse 255.webp";
 import Image4 from "../../assets/Ellipse 256.webp";
 import Image5 from "../../assets/Ellipse 257.webp";
-import Image6 from "../../assets/Ellipse 258.webp";
+import Image6 from "../../assets/Ellipse 258 (1).webp";
 import Image7 from "../../assets/Ellipse 259.webp";
 import Image8 from "../../assets/Ellipse 260.webp";
 import Image9 from "../../assets/Ellipse 736.webp";
@@ -51,7 +51,7 @@ const Hero = () => {
 
           
             <div className="relative w-[200px] md:w-[250px] h-[300px]">
-              <img src={Image3} className="absolute -top-6 left-0 w-[160px] md:w-[180px]" />
+              <img src={Image3} className="absolute rounded-full -top-6 left-0 w-[160px] md:w-[180px]" />
               <img src={Image4} className="absolute bottom-0 left-8 md:left-30 w-[160px] md:w-[180px]" />
             </div>
 

@@ -5,7 +5,7 @@ import Image3 from "../../assets/Ellipse 268.webp";
 import Image4 from "../../assets/Ellipse 267.webp";
 import Image5 from "../../assets/Ellipse 270.webp";
 import Image6 from "../../assets/Ellipse 260.webp";
-import Image7 from "../../assets/Ellipse 258.webp";
+import Image7 from "../../assets/Ellipse 258 (1).webp";
 import Image8 from "../../assets/Ellipse 269 (1).webp";
 
 const Reviews = () => {
