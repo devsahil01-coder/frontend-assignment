@@ -1,15 +1,15 @@
 import React from "react";
-import Image1 from "../../assets/Ellipse 262.png";
-import Image2 from "../../assets/Ellipse 261.png";
-import Image3 from "../../assets/Ellipse 255.png";
-import Image4 from "../../assets/Ellipse 256.png";
-import Image5 from "../../assets/Ellipse 257.png";
-import Image6 from "../../assets/Ellipse 258.png";
-import Image7 from "../../assets/Ellipse 259.png";
-import Image8 from "../../assets/Ellipse 260.png";
-import Image9 from "../../assets/Ellipse 736.png";
-import Image10 from "../../assets/Vector 2510.png";
-import Image11 from "../../assets/Vector 2511.png";
+import Image1 from "../../assets/Ellipse 262.webp";
+import Image2 from "../../assets/Ellipse 261.webp";
+import Image3 from "../../assets/Ellipse 255.webp";
+import Image4 from "../../assets/Ellipse 256.webp";
+import Image5 from "../../assets/Ellipse 257.webp";
+import Image6 from "../../assets/Ellipse 258.webp";
+import Image7 from "../../assets/Ellipse 259.webp";
+import Image8 from "../../assets/Ellipse 260.webp";
+import Image9 from "../../assets/Ellipse 736.webp";
+import Image10 from "../../assets/Vector 2510.webp";
+import Image11 from "../../assets/Vector 2511.webp";
 
 
 const Hero = () => {

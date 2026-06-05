@@ -1,7 +1,7 @@
 import React from "react";
-import image1 from "../../assets/image 348 (1).png";
-import image2 from "../../assets/Polygon 1.png";
-import vector from "../../assets/Vector 2517.png"
+import image1 from "../../assets/image 348 (1).webp";
+import image2 from "../../assets/Polygon 1.webp";
+import vector from "../../assets/Vector 2517.webp"
 import { HiOutlineArrowLongRight } from "react-icons/hi2";
 
 const Meeting2 = () => {

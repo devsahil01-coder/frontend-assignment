@@ -1,12 +1,12 @@
 import React from "react";
-import Image1 from "../../assets/Ellipse 263.png";
-import Image2 from "../../assets/Ellipse 266.png";
-import Image3 from "../../assets/Ellipse 268.png";
-import Image4 from "../../assets/Ellipse 267.png";
-import Image5 from "../../assets/Ellipse 270.png";
-import Image6 from "../../assets/Ellipse 260.png";
-import Image7 from "../../assets/Ellipse 258.png";
-import Image8 from "../../assets/Ellipse 269 (1).png";
+import Image1 from "../../assets/Ellipse 263.webp";
+import Image2 from "../../assets/Ellipse 266.webp";
+import Image3 from "../../assets/Ellipse 268.webp";
+import Image4 from "../../assets/Ellipse 267.webp";
+import Image5 from "../../assets/Ellipse 270.webp";
+import Image6 from "../../assets/Ellipse 260.webp";
+import Image7 from "../../assets/Ellipse 258.webp";
+import Image8 from "../../assets/Ellipse 269 (1).webp";
 
 const Reviews = () => {
   return (

@@ -1,6 +1,6 @@
 import React from "react";
-import vector from "../../assets/Vector 2516.png";
-import polygon from "../../assets/Polygon 3.png";
+import vector from "../../assets/Vector 2516.webp";
+import polygon from "../../assets/Polygon 3.webp";
 import { HiOutlineArrowLongRight } from "react-icons/hi2";
 
 const Offer = () => {

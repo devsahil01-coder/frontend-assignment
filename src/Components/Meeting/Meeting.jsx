@@ -1,6 +1,6 @@
 import React from "react";
-import bgImage from "../../assets/Ellipse 734.png";
-import image1 from "../../assets/image 348.png";
+import bgImage from "../../assets/Ellipse 734.webp";
+import image1 from "../../assets/image 348.webp";
 import { HiOutlineArrowLongRight } from "react-icons/hi2";
 
 import polygon from "../../assets/Polygon 3.png"

@@ -1,6 +1,6 @@
 import React from "react";
-import image1 from "../../assets/Ellipse 739.png"
-import image2 from "../../assets/Vector 2518.png"
+import image1 from "../../assets/Ellipse 739.webp"
+import image2 from "../../assets/Vector 2518.webp"
 // import image1 from "../../assets/Ellipse 739.png"
 
 export default function Footer() {
